@@ -15,7 +15,7 @@ mdc: true
 
 <h2>El fin de Javascript</h2>
 
-<img v-click src="explosion.gif" class="explosion" />
+<img v-click src="/explosion.gif" class="explosion" />
 
 <style>
 .explosion {
