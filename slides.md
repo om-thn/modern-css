@@ -15,6 +15,18 @@ mdc: true
 
 <h2>El fin de Javascript</h2>
 
+<img v-click src="explosion.gif" class="explosion" />
+
+<style>
+.explosion {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-indez: 10;
+}
+</style>
 ---
 layout: center
 class: text-center
@@ -174,3 +186,13 @@ layout: center
 ---
 
 # Gracias
+
+---
+layout: center
+---
+
+# Créditos
+
+- Imágenes [unsplash](https://unsplash.com)
+- Presentation slides [slidev](https://sli.dev/)
+- Fuente de odio [Cruzcampo](https://www.cruzcampo.es/)
